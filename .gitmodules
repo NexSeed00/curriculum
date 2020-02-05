@@ -1,3 +1,21 @@
 [submodule "src/HTML_CSS"]
 	path = src/HTML_CSS
 	url = https://github.com/NexSeed00/HTML_CSS.git
+[submodule "src/JavaScript"]
+	path = src/JavaScript
+	url = https://github.com/NexSeed00/JavaScript
+[submodule "src/jQuery"]
+	path = src/jQuery
+	url = https://github.com/NexSeed00/jQuery.git
+[submodule "src/PHP"]
+	path = src/PHP
+	url = https://github.com/NexSeed00/PHP.git
+[submodule "src/MySQL"]
+	path = src/MySQL
+	url = https://github.com/NexSeed00/MySQL.git
+[submodule "src/Unix"]
+	path = src/Unix
+	url = https://github.com/NexSeed00/Unix
+[submodule "src/Laravel"]
+	path = src/Laravel
+	url = https://github.com/NexSeed00/laravel.git
