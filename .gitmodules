@@ -19,3 +19,6 @@
 [submodule "src/Laravel"]
 	path = src/Laravel
 	url = https://github.com/NexSeed00/laravel.git
+[submodule "src/Git"]
+	path = src/Git
+	url = https://github.com/NexSeed00/Git.git
