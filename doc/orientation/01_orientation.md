@@ -40,7 +40,7 @@
 
 
 ### 必要なスキル
-- [スキル表](https://github.com/NexSeed00/curriculum/blob/master/doc/orientation/img/%E3%82%B9%E3%82%AD%E3%83%AB%E4%B8%80%E8%A6%A7.pdf)
+- [スキル表](https://github.com/NexSeed00/curriculum/blob/master/doc/orientation./img/%E3%82%B9%E3%82%AD%E3%83%AB%E4%B8%80%E8%A6%A7.pdf)
 
 ## 勉強の進め方
 1. 基本的な内容を学ぶ
